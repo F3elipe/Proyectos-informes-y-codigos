@@ -1,6 +1,6 @@
 # Proyectos-informes-y-codigos
-El repositorio a continuación contiene el resultado de distintos proyectos y productos acádemicos.
-Las áreas de trabajo son: 
+El presente repositorio contiene los productos finales de distintos proyectos acádemicos y profesionales.
+El alcance de los desarrollos son:
 - Modelos de regresión lineal y modelos logísticos, utilizando muestras complejas y precisión de inferencia estadística
 - Creación de tablas descriptivas con datos recodificados
-- Reportería de resultados
+- Generacion de reportes de resultados automatizados
