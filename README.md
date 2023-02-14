@@ -9,6 +9,7 @@ El alcance de los desarrollos son:
 
 Breve descripción de los proyectos:
 
--Informe de Género: Se construyo con las bases de datos del ministerio de educación, con el objetivo de automatizar el proceso de construccion del reporte anual de                         género del MINEDUC. 
+-Informe de Género: Se construyo con las bases de datos del ministerio de educación, con el objetivo de automatizar el proceso de construccion del reporte anual de                         género del MINEDUC.
+
                     Es un traspaso de un código de tablas descriptivas desde Stata a R.
                     El archivo RMD, contiene el reporte con las tablas personalizadas según lo requerido en el Centro de Estudios.
