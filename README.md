@@ -16,12 +16,12 @@ Es un traspaso de un código de tablas descriptivas desde Stata a R.
 
 El archivo RMD llamado "informe-genero", contiene el reporte con las tablas personalizadas según lo requerido en el Centro de Estudios, junto con una automatización del reporte en general.
 
--Exámen: 
+- Exámen: 
 Se construyó con las bases de datos de la Encuesta de Presupuestos Familiares (EPF), perteneciente al Instituto Nacional de Estadísticas (INE).
 
 Es un proyecto académico que tuvo como objetivo descubrir si la hipótesis planteada por el autor es verdadera o no, a través de regresiones lineales, estadística descriptiva y modelos logísticos. 
 
--Encuesta MOVID-IMPACT:
+- Encuesta MOVID-IMPACT:
 Se hizo el análisis de la encuesta representativa MOVID-IMPACT, que busca evaluar la respuesta del sistema de salud chileno ante la emergencia del CORONAVIRUS.
 
 El objetivo de esto fue encontrar correlación entre variables y practicar modelamiento con diseño muestral. 
